@@ -1,1 +1,1 @@
-# university_project_1
+This is just homework for univerity
